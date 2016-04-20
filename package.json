@@ -1,0 +1,20 @@
+{
+  "name": "legacy-jasmine-reporters",
+  "version": "1.0.2",
+  "description": "A package that depends on jasmine-reporters 1.x for when you need reporters for both Jasmine 1.x and 2.x",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/worklez/legacy-jasmine-reporters.git"
+  },
+  "author": "Ilya Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worklez/legacy-jasmine-reporters/issues"
+  },
+  "homepage": "https://github.com/worklez/legacy-jasmine-reporters#readme",
+  "dependencies": {
+    "jasmine-reporters": "1.0.2"
+  }
+}
